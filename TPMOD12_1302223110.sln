@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPMOD12_1302223110", "TPMOD12_1302223110\TPMOD12_1302223110.csproj", "{33CD663F-A6C3-48D5-9ACE-A8C13C6859C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTPMod12", "UnitTestTPMod12\UnitTestTPMod12.csproj", "{5AD6FBBC-4635-401B-BF6F-E5A9170130D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33CD663F-A6C3-48D5-9ACE-A8C13C6859C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CD663F-A6C3-48D5-9ACE-A8C13C6859C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CD663F-A6C3-48D5-9ACE-A8C13C6859C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CD663F-A6C3-48D5-9ACE-A8C13C6859C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD6FBBC-4635-401B-BF6F-E5A9170130D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD6FBBC-4635-401B-BF6F-E5A9170130D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD6FBBC-4635-401B-BF6F-E5A9170130D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD6FBBC-4635-401B-BF6F-E5A9170130D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB6077E-B461-46F8-A212-03E19D1A95FD}
+	EndGlobalSection
+EndGlobal

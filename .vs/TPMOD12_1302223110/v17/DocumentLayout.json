@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 12\\TPMOD12_1302223110\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD6FBBC-4635-401B-BF6F-E5A9170130D5}|UnitTestTPMod12\\UnitTestTPMod12.csproj|e:\\programming\\project\\kuliah\\kpl\\tp modul 12\\tpmod12_1302223110\\unittesttpmod12\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD6FBBC-4635-401B-BF6F-E5A9170130D5}|UnitTestTPMod12\\UnitTestTPMod12.csproj|solutionrelative:unittesttpmod12\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CD663F-A6C3-48D5-9ACE-A8C13C6859C0}|TPMOD12_1302223110\\TPMOD12_1302223110.csproj|E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 12\\TPMOD12_1302223110\\tpmod12_1302223110\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33CD663F-A6C3-48D5-9ACE-A8C13C6859C0}|TPMOD12_1302223110\\TPMOD12_1302223110.csproj|solutionrelative:tpmod12_1302223110\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CD663F-A6C3-48D5-9ACE-A8C13C6859C0}|TPMOD12_1302223110\\TPMOD12_1302223110.csproj|E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 12\\TPMOD12_1302223110\\tpmod12_1302223110\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CD663F-A6C3-48D5-9ACE-A8C13C6859C0}|TPMOD12_1302223110\\TPMOD12_1302223110.csproj|solutionrelative:tpmod12_1302223110\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 382,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 12\\TPMOD12_1302223110\\UnitTestTPMod12\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestTPMod12\\UnitTest1.cs",
+              "ToolTip": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 12\\TPMOD12_1302223110\\UnitTestTPMod12\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestTPMod12\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:21:35.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 12\\TPMOD12_1302223110\\TPMOD12_1302223110\\Form1.cs",
+              "RelativeDocumentMoniker": "TPMOD12_1302223110\\Form1.cs",
+              "ToolTip": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 12\\TPMOD12_1302223110\\TPMOD12_1302223110\\Form1.cs",
+              "RelativeToolTip": "TPMOD12_1302223110\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:40:14.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 12\\TPMOD12_1302223110\\TPMOD12_1302223110\\Form1.cs",
+              "RelativeDocumentMoniker": "TPMOD12_1302223110\\Form1.cs",
+              "ToolTip": "E:\\Programming\\Project\\Kuliah\\KPL\\TP Modul 12\\TPMOD12_1302223110\\TPMOD12_1302223110\\Form1.cs [Design]",
+              "RelativeToolTip": "TPMOD12_1302223110\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:27:05.349Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
